@@ -1,0 +1,4 @@
+# Keep upstream license bytes consistent with their recorded SHA-256 hashes.
+/LICENSE -text
+/build/licenses/*.txt -text
+/vendor/**/LICENSE -text

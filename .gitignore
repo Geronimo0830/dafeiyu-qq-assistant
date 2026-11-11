@@ -1,0 +1,22 @@
+downloads/
+.tmp/
+dist/
+.venv/
+__pycache__/
+*.pyc
+.superpowers/
+.DS_Store
+
+# Local installation data and credentials are never source files.
+/program/
+/userdata/
+/state.json
+/layout.json
+/napcat-data/
+/logs/
+/.import/
+/我的信息.txt
+.env
+.env.*
+!.env.example
+!.env.template
